@@ -7,8 +7,8 @@
 		<de>Autonomous Agriculture</de>
     </title>
     <description>
-		<en><![CDATA[Auto-Agriculture is a program to drive your vehicles autonomous.]]></en>
-        <de><![CDATA[Auto-Agriculture ist eine Spielerweiterung, mit der man eigene Fahrer einstellen kann und diese dann die Arbeit für Sie für einen gewissen Preis erledigen. In der Realität nennt man dies auch Lohnunternehmen.]]></de>
+		<en><![CDATA[Autonomous-Agriculture is a program to drive your vehicles autonomous.]]></en>
+        <de><![CDATA[Autonomous-Agriculture ist eine Spielerweiterung, mit der man eigene Fahrer einstellen kann und diese dann die Arbeit für Sie für einen gewissen Preis erledigen. In der Realität nennt man dies auch Lohnunternehmen.]]></de>
     </description>
     <iconFilename>
 		<en>img/store.dds</en>
@@ -26,4 +26,3 @@
 		<input name="AUTO_AGRICULTURE_MOUSE_RIGHT"				category="VEHICLE"	key1=""				key2="" button="" device="0" mouse="MOUSE_BUTTON_RIGHT"	/>
     </inputBindings>	
 </modDesc>
-
